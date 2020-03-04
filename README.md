@@ -3,7 +3,7 @@ how to use gitHub save version
 
 # 我的第一个GitHub项目
 
-这是项目 [Git20200304](https://github.com/gotgithub/helloworld) ，
+这是项目 [Git20200304]) ，
 欢迎访问。
 
 这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
@@ -14,9 +14,9 @@ how to use gitHub save version
 
 支持三种访问协议：
 
-* HTTP协议: `https://github.com/gotgithub/helloworld.git` 。
-* Git协议: `git://github.com/gotgithub/helloworld.git` 。
-* SSH协议: `ssh://git@github.com/gotgithub/helloworld.git` 。
+* HTTP协议: `https://github.com/gotgithub/` 。
+* Git协议: `git://github.com/gotgithub/` 。
+* SSH协议: `ssh://git@github.com/gotgithub/` 。
 
 ## 克隆版本库
 
